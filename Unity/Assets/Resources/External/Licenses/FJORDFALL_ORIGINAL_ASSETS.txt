@@ -1,0 +1,17 @@
+FJORDFALL ORIGINAL EXTERNAL ASSET PACK
+
+Models and textures in this folder were created specifically for Fjordfall v0.3 by OpenAI tooling at the user's request.
+They are standalone imported assets (OBJ, MTL, PNG), not runtime primitive geometry and not copied from the reference game.
+
+Permission: The user may use, modify, redistribute, and commercially use these assets as part of the Fjordfall project.
+Third-party assets included: none.
+
+Generated asset inventory:
+- fjord_house.obj
+- fjord_tree.obj
+- fjord_longboat.obj
+- fjord_wall.obj
+- fjord_rock.obj
+- fjord_soldier.obj
+- fjord_shield.obj
+- 9 albedo textures and 6 normal maps
